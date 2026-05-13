@@ -6,8 +6,7 @@
 
 ## 🚀 About Me
 
-
-<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
+![Hey there, I'm Eslam Gamal. I'm a software developer](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
 
 
 I am a Full-Stack Developer with nearly five years of experience building scalable web applications and 
