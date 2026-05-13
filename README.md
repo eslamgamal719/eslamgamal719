@@ -1,4 +1,4 @@
-# Hey there, I'm [Eslam Gamal] 👋
+# Hey there, I'm Eslam Gamal 👋
 
 ** Full-stack Web Developer **
 
