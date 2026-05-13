@@ -2,7 +2,7 @@
 
 ** Full-stack Web Developer **
 
-💼 **Current:** Full Stack Engineer at [RECAPET](https://recapet.com)
+💼 **Current:** Full Stack Developer at [RECAPET](https://recapet.com)
 
 ## 🚀 About Me
 
