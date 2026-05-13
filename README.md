@@ -6,7 +6,6 @@
 
 ## 🚀 About Me
 
-![Hey there, I'm Eslam Gamal. I'm a software developer](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
 
 
 I am a Full-Stack Developer with nearly five years of experience building scalable web applications and 
